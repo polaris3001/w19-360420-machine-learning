@@ -69,7 +69,9 @@ is benign when it is malignant.
 	the total number of positives is approximately equal to the number of predicted posisitves.
 	
 	b) What are sensible baseline for each of these measures?
-
+	The sensible baseline for the precision would be 1. The close the number is to 1 the more precise it is because if the 
+	ratio of the baseline and the precision gives a number close to 1, it will mean that it's well predicted. In 
+	the case of the recall, the baseline is also 1 because the recall and the precision have similar ratios.
 		
 
 7. How do the above results change with the hyperparameter k?
